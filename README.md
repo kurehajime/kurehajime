@@ -26,7 +26,7 @@ TypoScript is JavaScript-like language with typos. Some typos in variable and fu
         </tr>
         <tr>
             <td>
-<h2><a href="https://github.com/kurehajime/typoscript">minesweeper</a></h2>
+<h2><a href="https://github.com/kurehajime/minesweeper">minesweeper</a></h2>
 minesweeper for web.
             </td>
             <td><img src="https://user-images.githubusercontent.com/4569916/187012334-59a83fc1-2c76-49be-a552-c6bba2692c5a.png" width="200px" /></td>
