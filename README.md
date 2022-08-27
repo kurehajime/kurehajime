@@ -59,5 +59,12 @@ pong+breakout
             </td>
             <td><img src="https://raw.githubusercontent.com/kurehajime/game-off-2016/master/assets/ss.png" width="200px" /></td>
         </tr>
+        <tr>
+            <td>
+<h2><a href="https://github.com/kurehajime/cmprss">cmprss</a></h2>
+A tool for lossy compression of text.
+            </td>
+            <td><img src="https://cloud.githubusercontent.com/assets/4569916/21351460/f1eccf48-c6ff-11e6-82d9-f69d9f3f865a.png" width="200px" /></td>
+        </tr>
     </tbody>
 </table>
