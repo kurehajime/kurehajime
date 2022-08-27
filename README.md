@@ -61,6 +61,13 @@ breakout for terminal
         </tr>
         <tr>
             <td>
+<h2><a href="https://github.com/kurehajime/gifpzl">gifpzl</a></h2>
+Infinite Cat Movie Puzzle
+            </td>
+            <td><img src="https://user-images.githubusercontent.com/4569916/187017384-afc33ed7-4deb-4ea1-afec-75ad44b162a5.gif" width="200px" /></td>
+        </tr>
+        <tr>
+            <td>
 <h2><a href="https://github.com/kurehajime/cmprss">cmprss</a></h2>
 A tool for lossy compression of text.
             </td>
