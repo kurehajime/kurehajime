@@ -43,7 +43,7 @@ minesweeper for web.
 <h2><a href="https://github.com/kurehajime/pongout">pongout</a></h2>
 pong+breakout
             </td>
-            <td><img src="https://raw.githubusercontent.com/kurehajime/game-off-2016/master/assets/ss.png" width="200px" /></td>
+            <td><img src="https://user-images.githubusercontent.com/4569916/187020353-1cf96092-f8d4-481d-937b-6e47b9d9de5e.gif" width="200px" /></td>
         </tr>
         <tr>
             <td>
