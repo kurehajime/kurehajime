@@ -19,6 +19,13 @@ You can play with AI in your browser.
         </tr>
         <tr>
             <td>
+<h2><a href="https://github.com/kurehajime/pongout">pongout</a></h2>
+pong+breakout
+            </td>
+            <td><img src="https://user-images.githubusercontent.com/4569916/187020353-1cf96092-f8d4-481d-937b-6e47b9d9de5e.gif" width="200px" /></td>
+        </tr>
+        <tr>
+            <td>
 <h2><a href="https://github.com/kurehajime/typoscript">typoscript</a></h2>
 TypoScript is JavaScript-like language with typos. Some typos in variable and function names are acceptable.
             </td>
@@ -37,13 +44,6 @@ minesweeper for web.
 ダジャレを検索するコマンド
             </td>
             <td><img src="https://cloud.githubusercontent.com/assets/4569916/9517659/7641d0ca-4cec-11e5-98d6-7b0a64354877.gif" width="200px" /></td>
-        </tr>
-        <tr>
-            <td>
-<h2><a href="https://github.com/kurehajime/pongout">pongout</a></h2>
-pong+breakout
-            </td>
-            <td><img src="https://user-images.githubusercontent.com/4569916/187020353-1cf96092-f8d4-481d-937b-6e47b9d9de5e.gif" width="200px" /></td>
         </tr>
         <tr>
             <td>
