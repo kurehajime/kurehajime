@@ -33,10 +33,10 @@ TypoScript is JavaScript-like language with typos. Some typos in variable and fu
         </tr>
         <tr>
             <td>
-<h2><a href="https://github.com/kurehajime/minesweeper">minesweeper</a></h2>
-minesweeper for web.
+<h2><a href="https://github.com/kurehajime/hash4word">hash4word</a></h2>
+Crossword Puzzle
             </td>
-            <td><img src="https://user-images.githubusercontent.com/4569916/187020236-9ecc4891-ab42-4acf-962c-fcee9cd63a16.gif" width="200px" /></td>
+            <td><img src="https://user-images.githubusercontent.com/4569916/187026526-04e2f34d-aaeb-4654-a427-b38c29d8d8d4.gif" width="200px" /></td>
         </tr>
         <tr>
             <td>
@@ -44,6 +44,13 @@ minesweeper for web.
 ダジャレを検索するコマンド
             </td>
             <td><img src="https://cloud.githubusercontent.com/assets/4569916/9517659/7641d0ca-4cec-11e5-98d6-7b0a64354877.gif" width="200px" /></td>
+        </tr>
+        <tr>
+            <td>
+<h2><a href="https://github.com/kurehajime/minesweeper">minesweeper</a></h2>
+minesweeper for web.
+            </td>
+            <td><img src="https://user-images.githubusercontent.com/4569916/187020236-9ecc4891-ab42-4acf-962c-fcee9cd63a16.gif" width="200px" /></td>
         </tr>
         <tr>
             <td>
