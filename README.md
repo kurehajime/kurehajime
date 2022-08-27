@@ -40,6 +40,13 @@ minesweeper for web.
         </tr>
         <tr>
             <td>
+<h2><a href="https://github.com/kurehajime/pongout">pongout</a></h2>
+pong+breakout
+            </td>
+            <td><img src="https://raw.githubusercontent.com/kurehajime/game-off-2016/master/assets/ss.png" width="200px" /></td>
+        </tr>
+        <tr>
+            <td>
 <h2><a href="https://github.com/kurehajime/flagstone">flagstone</a></h2>
 flagstone is a Go library to convert flags to web UI.
             </td>
@@ -51,13 +58,6 @@ flagstone is a Go library to convert flags to web UI.
 breakout for terminal
             </td>
             <td><img src="https://cloud.githubusercontent.com/assets/4569916/21080202/d95cf80a-bfec-11e6-9c22-8b7b18d3662c.gif" width="200px" /></td>
-        </tr>
-        <tr>
-            <td>
-<h2><a href="https://github.com/kurehajime/pongout">pongout</a></h2>
-pong+breakout
-            </td>
-            <td><img src="https://raw.githubusercontent.com/kurehajime/game-off-2016/master/assets/ss.png" width="200px" /></td>
         </tr>
         <tr>
             <td>
