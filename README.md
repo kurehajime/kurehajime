@@ -75,6 +75,13 @@ Infinite Cat Movie Puzzle
         </tr>
         <tr>
             <td>
+<h2><a href="https://github.com/kurehajime/jimoto_no_github_user">地元のGithubユーザー</a></h2>
+地元のGithubユーザーを探せます。
+            </td>
+            <td><a href="https://github.com/kurehajime/jimoto_no_github_user"><img src="https://user-images.githubusercontent.com/4569916/191277728-68395b0b-8af8-448d-ad9d-b7e3f0387ee7.png" width="200px" /></a></td>
+        </tr>
+        <tr>
+            <td>
 <h2><a href="https://github.com/kurehajime/cmprss">cmprss</a></h2>
 A tool for lossy compression of text.
             </td>
