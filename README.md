@@ -8,7 +8,7 @@
 A two-player strategy board game.
 You can play with AI in your browser.
             </td>
-            <td><a href="https://github.com/kurehajime/colamone_js"><img src="https://cloud.githubusercontent.com/assets/4569916/21293734/1ef09862-c570-11e6-9cd7-5e294bd15245.gif" width="200px"  /></a></td>
+            <td><a href="https://colamone.com/"><img src="https://cloud.githubusercontent.com/assets/4569916/21293734/1ef09862-c570-11e6-9cd7-5e294bd15245.gif" width="200px"  /></a></td>
         </tr>
         <tr>
             <td>
@@ -22,7 +22,7 @@ You can play with AI in your browser.
 <h2><a href="https://github.com/kurehajime/pongout">pongout</a></h2>
 pong+breakout
             </td>
-            <td><a href="https://github.com/kurehajime/pongout"><img src="https://user-images.githubusercontent.com/4569916/187020353-1cf96092-f8d4-481d-937b-6e47b9d9de5e.gif" width="200px" /></a></td>
+            <td><a href="https://kurehajime.github.io/pongout/"><img src="https://user-images.githubusercontent.com/4569916/187020353-1cf96092-f8d4-481d-937b-6e47b9d9de5e.gif" width="200px" /></a></td>
         </tr>
         <tr>
             <td>
@@ -36,7 +36,7 @@ TypoScript is JavaScript-like language with typos. Some typos in variable and fu
 <h2><a href="https://github.com/kurehajime/hash4word">hash4word</a></h2>
 Crossword Puzzle
             </td>
-            <td><a href="https://github.com/kurehajime/hash4word"><img src="https://user-images.githubusercontent.com/4569916/187026526-04e2f34d-aaeb-4654-a427-b38c29d8d8d4.gif" width="200px" /></a></td>
+            <td><a href="https://kurehajime.github.io/hash4word/"><img src="https://user-images.githubusercontent.com/4569916/187026526-04e2f34d-aaeb-4654-a427-b38c29d8d8d4.gif" width="200px" /></a></td>
         </tr>
         <tr>
             <td>
@@ -50,7 +50,7 @@ Crossword Puzzle
 <h2><a href="https://github.com/kurehajime/minesweeper">minesweeper</a></h2>
 minesweeper for web.
             </td>
-            <td><a href="https://github.com/kurehajime/minesweeper"><img src="https://user-images.githubusercontent.com/4569916/187020236-9ecc4891-ab42-4acf-962c-fcee9cd63a16.gif" width="200px" /></a></td>
+            <td><a href="https://kurehajime.github.io/minesweeper/"><img src="https://user-images.githubusercontent.com/4569916/187020236-9ecc4891-ab42-4acf-962c-fcee9cd63a16.gif" width="200px" /></a></td>
         </tr>
         <tr>
             <td>
@@ -71,14 +71,14 @@ breakout for terminal
 <h2><a href="https://github.com/kurehajime/gifpzl">gifpzl</a></h2>
 Infinite Cat Movie Puzzle
             </td>
-            <td><a href="https://github.com/kurehajime/gifpzl"><img src="https://user-images.githubusercontent.com/4569916/187017384-afc33ed7-4deb-4ea1-afec-75ad44b162a5.gif" width="200px" /></a></td>
+            <td><a href="https://kurehajime.github.io/gifpzl/"><img src="https://user-images.githubusercontent.com/4569916/187017384-afc33ed7-4deb-4ea1-afec-75ad44b162a5.gif" width="200px" /></a></td>
         </tr>
         <tr>
             <td>
 <h2><a href="https://github.com/kurehajime/jimoto_no_github_user">地元のGithubユーザー</a></h2>
 地元のGithubユーザーを探せます。
             </td>
-            <td><a href="https://github.com/kurehajime/jimoto_no_github_user"><img src="https://user-images.githubusercontent.com/4569916/191277728-68395b0b-8af8-448d-ad9d-b7e3f0387ee7.png" width="200px" /></a></td>
+            <td><a href="https://kurehajime.github.io/jimoto_no_github_user/#/of/Kagoshima"><img src="https://user-images.githubusercontent.com/4569916/191277728-68395b0b-8af8-448d-ad9d-b7e3f0387ee7.png" width="200px" /></a></td>
         </tr>
         <tr>
             <td>
