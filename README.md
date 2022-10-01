@@ -1,3 +1,6 @@
+[![Contributions](https://badgen.org/img/qiita/kurehajime/contributions?style=plastic)](https://qiita.com/kurehajime)
+[![Likes](https://badgen.org/img/zenn/kurehajime/likes?style=plastic)](https://zenn.dev/kurehajime)
+
 # My Works
 
 <table>
