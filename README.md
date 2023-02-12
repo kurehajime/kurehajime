@@ -90,5 +90,12 @@ A tool for lossy compression of text.
             </td>
             <td><a href="https://github.com/kurehajime/cmprss"><img src="https://cloud.githubusercontent.com/assets/4569916/21351460/f1eccf48-c6ff-11e6-82d9-f69d9f3f865a.png" width="200px" /></a></td>
         </tr>
+        <tr>
+            <td>
+<h2><a href="https://github.com/kurehajime/whatword">AIポエムクイズ</a></h2>
+AIが考えたポエムについて、何をテーマにしているか当ててみよう。
+            </td>
+            <td><a href="[[https://github.com/kurehajime/cmprss](https://whatword-5dyx7gwrfq-an.a.run.app/)](https://whatword-5dyx7gwrfq-an.a.run.app/)"><img src="https://user-images.githubusercontent.com/4569916/216822011-48036c18-e873-43b6-b238-0a39fd149a4b.png" width="200px" /></a></td>
+        </tr>
     </tbody>
 </table>
