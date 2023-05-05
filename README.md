@@ -22,6 +22,13 @@ You can play with AI in your browser.
         </tr>
         <tr>
             <td>
+<h2><a href="https://github.com/kurehajime/chromatic_clans">Chromatic Clans</a></h2>
+ Chromatic Clans is a card game that can be played in your browser.
+            </td>
+            <td><a href="https://kurehajime.github.io/chromatic_clans/"><img src="[https://cloud.githubusercontent.com/assets/4569916/7273449/e6c410be-e92e-11e4-89dd-ba6903089706.gif](https://user-images.githubusercontent.com/4569916/236468677-0cc7739e-4cf2-4796-af06-351d8ec23e6b.png)" width="200px" /></a></td>
+        </tr>
+        <tr>
+            <td>
 <h2><a href="https://github.com/kurehajime/pongout">pongout</a></h2>
 pong+breakout
             </td>
