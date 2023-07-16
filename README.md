@@ -69,7 +69,14 @@ flagstone is a Go library to convert flags to web UI.
             </td>
             <td><a href="https://github.com/kurehajime/flagstone"><img src="https://user-images.githubusercontent.com/4569916/74228957-ce9fab80-4d04-11ea-8eb5-2970496e75c5.png" width="200px" /></a></td>
         </tr>
-        <tr>
+    <tr>
+            <td>
+<h2><a href="https://github.com/kurehajime/iroawase">IROAWASE</a></h2>
+IROWASE is a sliding puzzle game.Let's slide the panel to align the four colors.
+            </td>
+            <td><a href="https://kurehajime.github.io/iroawase/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/4569916/253798085-f5a3f4b7-9d7e-431f-8411-320d0554fbc8.gif" width="200px" /></a></td>
+        </tr>
+    <tr>
             <td>
 <h2><a href="https://github.com/kurehajime/kuzusi">kuzusi</a></h2>
 breakout for terminal
