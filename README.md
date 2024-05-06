@@ -104,6 +104,14 @@ A tool for lossy compression of text.
             </td>
             <td><a href="https://github.com/kurehajime/cmprss"><img src="https://cloud.githubusercontent.com/assets/4569916/21351460/f1eccf48-c6ff-11e6-82d9-f69d9f3f865a.png" width="200px" /></a></td>
         </tr>
+            <tr>
+            <td>
+<h2><a href="https://github.com/kurehajime/inyago">いにゃごの大群</a></h2>
+いにゃごを増やすスネークゲーム
+            </td>
+            <td><a href="https://kurehajime.github.io/inyago/"><img src="https://github.com/kurehajime/inyago/assets/4569916/55d5feda-8d8f-4529-ba68-d4b34d4df68e" width="200px" /></a></td>
+        </tr>
+        <tr>
         <tr>
             <td>
 <h2><a href="https://github.com/kurehajime/whatword">AIポエムクイズ</a></h2>
