@@ -119,5 +119,15 @@ AIが考えたポエムについて、何をテーマにしているか当てて
             </td>
             <td><a href="[[https://github.com/kurehajime/cmprss](https://whatword-5dyx7gwrfq-an.a.run.app/)](https://whatword-5dyx7gwrfq-an.a.run.app/)"><img src="https://user-images.githubusercontent.com/4569916/216822011-48036c18-e873-43b6-b238-0a39fd149a4b.png" width="200px" /></a></td>
         </tr>
+  <tr>
+        <td>
+<h2><a href="https://www.youtube.com/@kurehajime/shorts">Illustrations </a></h2>
+            描いた絵
+        </td>
+        <td>
+            <a href="https://www.youtube.com/shorts/GMSGfKG6uMs"><img src="https://img.youtube.com/vi/GMSGfKG6uMs/0.jpg" width="200px" /></a>
+        </td>
+    </tr>
     </tbody>
 </table>
+
