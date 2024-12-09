@@ -5,6 +5,16 @@
 
 <table>
     <tbody>
+<tr>
+    <td>
+        <h2><a href="https://www.shoeisha.co.jp/book/detail/9784798184395">いきなりプログラミング JavaScript</a></h2>
+        楽しく学べるJavaScriptの入門書です
+    </td>
+    <td><a href="https://www.shoeisha.co.jp/book/detail/9784798184395">
+        <img        src="https://github.com/user-attachments/assets/25f7fbe5-cfaa-47b4-a5a8-cae77cc134f2"    width="200px" />
+        </a>
+    </td>
+</tr>
         <tr>
             <td>
 <h2><a href="https://github.com/kurehajime/colamone_js">colamone</a></h2>
