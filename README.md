@@ -122,12 +122,18 @@ A tool for lossy compression of text.
             <td><a href="https://kurehajime.github.io/inyago/"><img src="https://github.com/kurehajime/inyago/assets/4569916/55d5feda-8d8f-4529-ba68-d4b34d4df68e" width="200px" /></a></td>
         </tr>
         <tr>
-        <tr>
             <td>
 <h2><a href="https://github.com/kurehajime/whatword">AIポエムクイズ</a></h2>
 AIが考えたポエムについて、何をテーマにしているか当ててみよう。
             </td>
             <td><a href="[[https://github.com/kurehajime/cmprss](https://whatword-5dyx7gwrfq-an.a.run.app/)](https://whatword-5dyx7gwrfq-an.a.run.app/)"><img src="https://user-images.githubusercontent.com/4569916/216822011-48036c18-e873-43b6-b238-0a39fd149a4b.png" width="200px" /></a></td>
+        </tr>
+        <tr>
+            <td>
+<h2><a href="https://github.com/kurehajime/powpow_reversi">POW POW REVERSI</a></h2>
+点数を競うリバーシ。点数は2のn乗で増えていく。
+            </td>
+            <td><a href="[[https://kurehajime.github.io/powpow_reversi/](https://kurehajime.github.io/powpow_reversi/)](https://kurehajime.github.io/powpow_reversi/)"><img src="https://kurehajime.github.io/powpow_reversi/powpowreversi.gif" width="200px" /></a></td>
         </tr>
   <tr>
         <td>
