@@ -133,7 +133,10 @@ AIが考えたポエムについて、何をテーマにしているか当てて
 <h2><a href="https://github.com/kurehajime/powpow_reversi">POW POW REVERSI</a></h2>
 点数を競うリバーシ。点数は2のn乗で増えていく。
             </td>
-            <td><a href="[[https://kurehajime.github.io/powpow_reversi/](https://kurehajime.github.io/powpow_reversi/)](https://kurehajime.github.io/powpow_reversi/)"><img src="https://kurehajime.github.io/powpow_reversi/powpowreversi.gif" width="200px" /></a></td>
+            <td>
+                <a href="https://kurehajime.github.io/powpow_reversi/">
+                    <img src="https://kurehajime.github.io/powpow_reversi/powpowreversi.gif" width="200px" /></a>
+            </td>
         </tr>
   <tr>
         <td>
