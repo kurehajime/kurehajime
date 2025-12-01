@@ -109,6 +109,17 @@ Infinite Cat Movie Puzzle
         </tr>
         <tr>
             <td>
+<h2><a href="https://github.com/kurehajime/bloodless_chess">Bloodless Chess</a></h2>
+Bloodless Chess is a humane chess without bloodshed
+            </td>
+            <td>
+                <a href="https://kurehajime.github.io/bloodless_chess">
+                    <img src="https://kurehajime.github.io/bloodless_chess/ogp.png" width="200px" /></a>
+            </td>
+        </tr>
+  <tr>
+        <tr>
+            <td>
 <h2><a href="https://github.com/kurehajime/cmprss">cmprss</a></h2>
 A tool for lossy compression of text.
             </td>
