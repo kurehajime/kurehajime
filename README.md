@@ -189,12 +189,12 @@
         </tr>
         <tr>
             <td>
-                <h2><a href="https://www.youtube.com/@kurehajime/shorts">Illustrations </a></h2>
-                描いた絵
+                <h2><a href="https://github.com/kurehajime/kiradeco_maker">キラデコメーカー</a></h2>
+                画像をキラキラにデコれます
             </td>
             <td>
-                <a href="https://www.youtube.com/shorts/GMSGfKG6uMs"><img
-                        src="https://img.youtube.com/vi/GMSGfKG6uMs/0.jpg" width="200px" /></a>
+                <a href="https://kurehajime.github.io/kiradeco_maker/">
+                    <img src="https://kurehajime.github.io/kiradeco_maker/after1.jpg" width="200px" /></a>
             </td>
         </tr>
     </tbody>
