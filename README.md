@@ -194,7 +194,7 @@
             </td>
             <td>
                 <a href="https://kurehajime.github.io/kiradeco_maker/">
-                    <img src="https://kurehajime.github.io/kiradeco_maker/after1.jpg" width="200px" /></a>
+                    <img src="https://kurehajime.github.io/kiradeco_maker/after1.jpg?abc" width="200px" /></a>
             </td>
         </tr>
     </tbody>
