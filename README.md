@@ -137,8 +137,19 @@ A tool for lossy compression of text.
 <h2><a href="https://github.com/kurehajime/whatword">AIポエムクイズ</a></h2>
 AIが考えたポエムについて、何をテーマにしているか当ててみよう。
             </td>
-            <td><a href="[[https://github.com/kurehajime/cmprss](https://whatword-5dyx7gwrfq-an.a.run.app/)](https://whatword-5dyx7gwrfq-an.a.run.app/)"><img src="https://user-images.githubusercontent.com/4569916/216822011-48036c18-e873-43b6-b238-0a39fd149a4b.png" width="200px" /></a></td>
+            <td><a href="https://whatword-5dyx7gwrfq-an.a.run.app/"><img src="https://user-images.githubusercontent.com/4569916/216822011-48036c18-e873-43b6-b238-0a39fd149a4b.png" width="200px" /></a></td>
         </tr>
+        <tr>
+            <td>
+<h2><a href="https://github.com/kurehajime/kiradeco_maker">キラデコメーカー</a></h2>
+キラキラ写真が作れます
+            </td>
+            <td>
+                <a href="https://kurehajime.github.io/kiradeco_maker/">
+                    <img src="https://kurehajime.github.io/kiradeco_maker/after1.jpg" width="200px" /></a>
+            </td>
+        </tr>
+    
         <tr>
             <td>
 <h2><a href="https://github.com/kurehajime/powpow_reversi">POW POW REVERSI</a></h2>
