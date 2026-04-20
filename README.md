@@ -189,6 +189,16 @@
         </tr>
         <tr>
             <td>
+                <h2><a href="https://github.com/kurehajime/cubecal">Cube Calendar</a></h2>
+                Help keep this calendar up to date.
+            </td>
+            <td>
+                <a href="https://cubecalendar.asweb.app/">
+                    <img src="https://github.com/user-attachments/assets/c042b6fe-a3c6-4a27-b7e3-08bbf2484dea" width="200px" /></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
                 <h2><a href="https://github.com/kurehajime/kiradeco_maker">キラデコメーカー</a></h2>
                 画像をキラキラにデコれます
             </td>
