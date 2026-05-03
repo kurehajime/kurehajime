@@ -59,7 +59,7 @@
                 TypoScript is JavaScript-like language with typos. Some typos in variable and function names are
                 acceptable.
             </td>
-            <td><a href="https://github.com/kurehajime/typoscript">typoscript</a><img
+            <td><a href="https://kurehajime.github.io/typoscript/"><img
                     src="https://user-images.githubusercontent.com/4569916/146017071-55f3e087-252e-4160-9fc4-7baf6e100f4a.png"
                     width="200px" /></a></td>
         </tr>
