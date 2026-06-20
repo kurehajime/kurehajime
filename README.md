@@ -68,8 +68,8 @@
                 <h2><a href="https://github.com/kurehajime/hash4word">hash4word</a></h2>
                 Crossword Puzzle
             </td>
-            <td><a href="https://kurehajime.github.io/hash4word/"><img
-                        src="https://user-images.githubusercontent.com/4569916/187026526-04e2f34d-aaeb-4654-a427-b38c29d8d8d4.gif"
+            <td><a href="https://yontango.asweb.app/"><img
+                        src="https://github.com/user-attachments/assets/74295bfa-1c67-4e05-ab5c-e529bb62fdd6"
                         width="200px" /></a></td>
         </tr>
         <tr>
