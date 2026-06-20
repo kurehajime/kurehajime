@@ -65,7 +65,7 @@
         </tr>
         <tr>
             <td>
-                <h2><a href="https://github.com/kurehajime/hash4word">hash4word</a></h2>
+                <h2><a href="https://github.com/kurehajime/hash4word">yontango</a></h2>
                 Crossword Puzzle
             </td>
             <td><a href="https://yontango.asweb.app/"><img
